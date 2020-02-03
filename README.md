@@ -32,7 +32,7 @@ MySQL的精进学习资源大全（每天不定时更新）
 
 ## 大神博客
 
-> [何登成 何登成的技术博客](http://hedengcheng.com/) （阿里数据库专家）
+> [何登成 何登成的技术博客](https://github.com/hedengcheng/tech) （阿里数据库专家）
 > 
 > [淘宝丁奇 追风刀·丁奇 - ITeye技术网站](https://www.iteye.com/blog/user/dinglin)
 > 
