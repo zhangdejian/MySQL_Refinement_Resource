@@ -28,6 +28,7 @@ MySQL的精进学习资源大全（每天不定时更新）
 * 《Effective MySQL：Optimizing SQL Statements》
 * 《数据库事务处理的艺术》
 * 《事务处理概念与技术》
+* 《MySQL DBA工作笔记》
 ```
 
 ## 大神博客
@@ -57,6 +58,8 @@ MySQL的精进学习资源大全（每天不定时更新）
 > 张德Talk （MySQL持续精进）
 > 
 > DBAplus社群 （数据库专业公众号）
+>
+> 杨建荣的学习笔记
 
 ## 学习网站
 
@@ -156,3 +159,5 @@ MySQL的精进学习资源大全（每天不定时更新）
 >[MySql 日常指导，及大表优化思路](https://juejin.im/post/5b7d52afe51d453885030b91)
 >
 >[MySQL在并发场景下的问题及解决思路](https://www.cnblogs.com/leefreeman/p/8286550.html)
+>
+>[彻底搞懂 MySQL 事务的隔离级别](https://learnku.com/articles/40258)
